@@ -1,0 +1,5 @@
+Before running the program. You must have python3 installed in your system.
+You can execute the program by typing the code "python3 track.py"
+or by executing the shell script by command "chmod +x run.sh" followed by
+  "./run.sh"
+  after running the program enter the target ip address
